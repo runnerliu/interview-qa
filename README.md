@@ -156,7 +156,7 @@ class MysqlUtils(object):
 
 22. list()和[]哪个更快
 
-### Golang相关
+### Golang
 
 1. 切片和数组的区别
 2. make和new的区别，make第三个形参的意义
